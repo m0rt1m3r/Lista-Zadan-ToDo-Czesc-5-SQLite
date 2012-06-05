@@ -2,7 +2,7 @@
 //  RefreshTableProtocol.h
 //  ToDo
 //
-//  Created by damian on 22/04/2012.
+//  Created by Damian on 22/04/2012.
 //  Copyright (c) 2012 Notatki Niedzielnego Programisty (http://notatkiprogramisty.blox.pl/html). All rights reserved.
 //
 
